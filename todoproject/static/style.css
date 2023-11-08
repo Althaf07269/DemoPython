@@ -1,0 +1,14 @@
+.banner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: DarkCyan;
+    height: 150px;
+    margin-bottom: 30px;
+}
+
+.banner-text {
+    color: white;
+    text-align: center;
+}
+
